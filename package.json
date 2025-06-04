@@ -1,0 +1,13 @@
+{
+  "name": "medlyak-backend",
+  "version": "1.0.0",
+  "description": "Backend for Medlyak – anonymous dating app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
